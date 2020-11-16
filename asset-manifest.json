@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/foodiesta-ui/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/foodiesta-ui/static/js/main.167a1261.chunk.js",
+    "main.js.map": "/foodiesta-ui/static/js/main.167a1261.chunk.js.map",
+    "runtime-main.js": "/foodiesta-ui/static/js/runtime-main.e2d77854.js",
+    "runtime-main.js.map": "/foodiesta-ui/static/js/runtime-main.e2d77854.js.map",
+    "static/js/2.7f7b50af.chunk.js": "/foodiesta-ui/static/js/2.7f7b50af.chunk.js",
+    "static/js/2.7f7b50af.chunk.js.map": "/foodiesta-ui/static/js/2.7f7b50af.chunk.js.map",
+    "static/js/3.e10bddf7.chunk.js": "/foodiesta-ui/static/js/3.e10bddf7.chunk.js",
+    "static/js/3.e10bddf7.chunk.js.map": "/foodiesta-ui/static/js/3.e10bddf7.chunk.js.map",
+    "index.html": "/foodiesta-ui/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/foodiesta-ui/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.7f7b50af.chunk.js.LICENSE.txt": "/foodiesta-ui/static/js/2.7f7b50af.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/foodiesta-ui/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e2d77854.js",
+    "static/js/2.7f7b50af.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.167a1261.chunk.js"
+  ]
+}
