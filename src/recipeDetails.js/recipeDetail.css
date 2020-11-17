@@ -1,0 +1,76 @@
+:root {
+    --purple-color: #4d2d52;
+    --pink-color: #893168;
+    --white-color-light: #fbfbfb;
+    --main-heading-title: "Sansita Swashed", cursive;
+    --text-main: "Baloo 2", cursive;
+  }
+  * {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+  .recipe-title {
+    color: var(--pink-color);
+    font-family: var(--text-main);
+    font-weight: 600;
+    /* color: var(--white-color-light); */
+    font-size: 35px;
+    padding: 20px 0;
+  }
+  .image-recipe {
+    width: 400px;
+    height: 400px;
+    margin: 10px 2vw 10px;
+    border-radius: 5px;
+  }
+  .dish-detail-container {
+    display: flex;
+    flex-direction: column;
+    margin: 20px 0;
+  }
+  .dish-detail-container > div {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    margin: 5px 0;
+  }
+  .dish-detail-container > div > h3 {
+    font-family: var(--text-main);
+    font-size: 16px;
+    font-weight: 600;
+  }
+  .dish-detail-container > div > span {
+    font-size: 16px;
+    margin: 0 10px;
+    font-family: var(--text-main);
+    color: var(--pink-color);
+  }
+  .main-recipe-container {
+    display: flex;
+    align-items: center;
+  }
+  .detail-recipe-list {
+    width: 100%;
+    padding: 0 30px;
+    background-color: var(--white-color-light);
+  }
+  .detail-recipe-list:hover {
+    background-color: var(--white-color-light);
+  }
+  #list-container {
+    padding: 0 40px;
+  }
+  #ingredients-list-container {
+    display: flex;
+    align-items: flex-start;
+  }
+  #ingredients-ul > li {
+    color: var(--pink-color);
+    list-style-type: decimal;
+    margin-left: 30px;
+  }
+  #ingredients-ul > li > span {
+    margin-right: 4px;
+  }
+  
