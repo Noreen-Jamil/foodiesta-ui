@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import { getRecipies, getNutririons } from "../../apiService";
+import { getRecipies, getNutririons } from "../apiService";
 import { Link } from "react-router-dom";
 import "./listOfRecipes.css";
 

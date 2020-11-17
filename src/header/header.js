@@ -1,5 +1,5 @@
 import React from "react";
-import FoodiestaLogo from "../../images/foodiesta-logo.png";
+import FoodiestaLogo from "../images/foodiesta-logo.png";
 
 export const Header = () => {
   return (
