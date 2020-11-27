@@ -1,6 +1,5 @@
 import React, { useState } from "react";
 import { BrowserRouter, Route, Link } from "react-router-dom";
-import "./styles.css";
 import { Header } from "./components/header/header";
 import { Footer } from "./components/footer/footer";
 import Welcome from "./components/welcome/welcome";

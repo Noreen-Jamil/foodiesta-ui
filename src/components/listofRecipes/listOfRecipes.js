@@ -2,7 +2,6 @@ import React, { useState, useEffect } from "react";
 import { getRecipies, getNutritions } from "../../apiService";
 import { Link } from "react-router-dom";
 import "./listOfRecipes.css";
-import plainBack from "../../images/plainBack2.jpeg";
 
 const ListOfRecipies = (props) => {
   props.headerState("true");

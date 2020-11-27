@@ -1,11 +1,11 @@
 import React from "react";
 import "../welcome/welcome.css";
 // import iceCreams from "../../images/ice-creams.jpg";
-import burger from "../../images/burger.jpg";
-import lasagnea from "../../images/lasagnea.jpg";
-import roast from "../../images/roast.jpg";
+import burger from "../../images/burger.jpeg";
+import lasagnea from "../../images/lasagnea.jpeg";
+import roast from "../../images/roast.jpeg";
 // import chef from "../../images/chef.png";
-import brownDish from "../../images/brownDish.jpg";
+import brownDish from "../../images/brownDish.jpeg";
 // import bowlsImage from "../../images/3bowlsImg.jpg";
 
 export const About = () => {
